@@ -1,0 +1,200 @@
+html{
+    background: url("https://static.schools.by/images/header-bg/img-16.jpg") fixed;
+    background-size: 110%;
+
+}
+label, h1{
+    width: 300px;
+    height: 100px;
+    color: #1ff2ff;
+    font-family: "Tahoma";
+    font-size: x-large;
+    left: 10%;
+    padding-right: 20%;
+}
+b{
+    background-color: rgba(0, 0, 0, 0);
+}
+.buttons{
+    width: 320px;
+    height: 70px;
+    color: #000080;
+    font-family: "Times New Roman";
+    font-size: xx-large;
+    background-color: #97c0c0;
+    padding: initial;
+    border-radius: 40px;
+    border-width: 1px;
+    border-color: #000080;
+}
+#order, #rent, #first{
+    padding-top: 200px;
+}
+.pos{
+    width: 30%;
+    float: left;
+    padding-left: 20%;
+    padding-top: 20px;
+    position: center;
+
+}
+.pos1{
+    width: 50%;
+    float: left;
+    padding-left: 40%;
+    padding-top: 10px;
+    padding-bottom: 20%;
+    position: center;
+
+}
+.pos2{
+    width: 40%;
+    float: right;
+    position: relative;
+    top: 10px;
+    left: 10%;
+}
+.pos3{
+    width: 1%;
+    position: fixed;
+    float: bottom;
+    bottom: 10px;
+    right: 70px;
+}
+.pos4{
+    width: 50%;
+    float: left;
+    padding-left: 200px;
+    padding-top: 10px;
+    position: center;
+
+}
+.pos5{
+    float: left;
+}
+.text{
+    width: 210px;
+    height: 250px;
+    float: left;
+    margin: 5px;
+    border: 4px solid black;
+    background: darkgray;
+}
+img{
+    left: 10%;
+    border: 3px solid #000080;
+    width: 50%;
+    height: 50%;
+}
+h2{
+    color: black;
+    font-family: "Times New Roman";
+    font-size: 28px ;
+}
+h3{
+    color: black;
+    font-family: "Times New Roman";
+    font-size: 22px;
+}
+h4{
+    color: black;
+    font-family: "Times New Roman";
+    font-size: 21px;
+}
+h5{
+    color: black;
+    font-family: "Times New Roman";
+    font-size: 22px;
+}
+h6{
+    color: #1ff2ff;
+    font-family: "Times New Roman";
+    font-size: 21px;
+}
+.sheet{
+    background-color: white;
+
+}
+.button {
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    padding: 1px;
+    cursor: pointer;
+    border: solid 1px #fff;
+}
+
+.button:hover {
+    border: solid 1px #f00;
+}
+
+.button:active {
+    border: solid 1px #ff0;
+}
+
+#palette, #canvas {
+    display: inline-block;
+    border: solid 1px #aaa;
+    cursor: default;
+    vertical-align: top;
+}
+
+#palette {
+    width: 95px;
+}
+
+#clear {
+    background: #eee;
+    color: #777;
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+    margin: 15px auto;
+    cursor: pointer;
+}
+
+.container {
+    white-space: normal;
+    width: 710px;
+}
+#clock{
+    font-family:Tahoma, sans-serif;
+    font-size:20px;
+    font-weight:bold;
+    color:#0000cc;
+}
+figcaption
+{
+    color: #1ff2ff;
+    font-family: "Times New Roman";
+    font-size: 21px;
+}
+bookstore
+{
+    background-color: #f0ffff;
+    width: 100%;
+}
+book
+{
+    display: block;
+    margin-bottom: 30pt;
+    margin-left: 0;
+}
+title
+{
+    color: #FF0000;
+    font-size: 20pt;
+}
+author
+{
+    color: #0000FF;
+    font-size: 20pt;
+}
+category, year, price
+{
+    display: block;
+    color: #000000;
+    margin-left: 20pt;
+}
+
+

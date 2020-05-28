@@ -1,0 +1,1 @@
+background: url("https://static.schools.by/images/header-bg/img-16.jpg") fixed;
